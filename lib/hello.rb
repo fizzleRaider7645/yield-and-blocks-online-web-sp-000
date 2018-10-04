@@ -1,5 +1,5 @@
 def hello_t(array)
-  yield
+  yield(array)
 end
 
 # hello_t(array)
