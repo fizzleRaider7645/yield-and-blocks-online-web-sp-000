@@ -7,5 +7,4 @@ def hello_t(array)
   array
 end
 
-hello_t(array) { |el| puts el }
 
