@@ -3,5 +3,5 @@ def hello_t(array)
   array
 end
 
-hello_t(array)
+hello_t(array) { |el| }
 
