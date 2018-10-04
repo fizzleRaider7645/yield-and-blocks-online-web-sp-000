@@ -1,6 +1,4 @@
-def hello_t(el)
-  yield(el)
-  el
+def hello_t(array)
 end
 
 # call your method here!
