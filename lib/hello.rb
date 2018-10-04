@@ -1,5 +1,5 @@
 def hello_t(array)
-  yield(array) { |el| }
+  yield(array) { |el| el }
   array
 end
 
